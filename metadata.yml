@@ -1,0 +1,35 @@
+# Fill out all team + team member details below by replacing the content of the
+# respective strings. This file is parsed by our autograding software, so ensure
+# that you only replace the placeholder text, not the keys (e.g. TeamName, etc.)
+
+# 1. Your team's GitHub repository URL for project 2 (*not* project 1)
+RepoURL: https://github.com/COMP30019/project-2-donkey-eat-bug-interactive
+
+# 2. Since you are working in the same team for project 2, you should copy the
+#    below keys/values *verbatim* from your project 1 metadata.yml -- do not
+#    change them unless you have permission from the teaching team.
+TeamName: Donkey Eat Bug Interactive
+TeamMembers:
+ - Name: Duc Huy Le
+    Email: duchuyl@student.unimelb.edu.au
+  - Name: Chung Yao Liaw
+    Email: cliaw@student.unimelb.edu.au
+  - Name: Yuen Ying Wong
+    Email: yuenyingw@student.unimelb.edu.au
+  - Name: Nicholas Boylan
+    Email: nrboylan@student.unimelb.edu.au
+
+# 3. The below keys must be filled out by the given milestone deadlines, and
+#    you must also re-submit on Gradescope to register these changes officially
+#    (like in project 1). Read the specification for details.
+
+# Milestone 1 entries
+GameTitle: Distress! At the Disco
+GameBlurb: In Distress! At the Disco, you play as Echo Rhythmberg, a seasoned rave goer, who has to fight off hordes of dancers who are being controlled by the music of an evil DJ, DJ Mindmangler.
+Distress! At the Disco is a rhythm-based action shooter survival game in which the player must stay on beat with their actions to get stronger and defeat DJ Mindmangler and the other dancers.
+
+The core gameplay loop involves fighting off waves of enemies whilst syncing up your actions to the beat of the song. 
+Defeating enemies and staying on beat will make the player stronger, allowing them to take down tougher enemies. 
+
+# Milestone 2 entries
+GameplayVideo: <a link to your YouTube video>
